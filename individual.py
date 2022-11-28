@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- кодировка: utf-8 -*-
+
 nums = input('Введите числа через пробел: ')
 
 def external(start=0):
